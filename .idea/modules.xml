@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Grails3App.iml" filepath="$PROJECT_DIR$/Grails3App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grails3App_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Grails3App_integrationTest.iml" group="Grails3App" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grails3App_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Grails3App_main.iml" group="Grails3App" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grails3App_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Grails3App_test.iml" group="Grails3App" />
+    </modules>
+  </component>
+</project>

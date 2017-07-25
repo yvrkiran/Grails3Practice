@@ -1,0 +1,6 @@
+#Sun, 23 Jul 2017 14:02:28 -0500
+
+info.app.version=0.1
+info.app.name=Grails3App
+grails.env=development
+info.app.grailsVersion=3.2.4
