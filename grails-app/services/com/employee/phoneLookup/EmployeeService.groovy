@@ -46,6 +46,7 @@ class EmployeeService {
 
             employee.firstName = empDetails.first_Name
             employee.lastName = empDetails.last_Name
+            employee.employee_id = empDetails.id
             employee.address = address
             employee.occupation = occupation
         }

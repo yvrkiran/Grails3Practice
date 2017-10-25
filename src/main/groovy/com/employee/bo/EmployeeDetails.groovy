@@ -5,4 +5,6 @@ class EmployeeDetails {
     String lastName
     Address address
     Occupation occupation
+    long employee_id
+
 }
